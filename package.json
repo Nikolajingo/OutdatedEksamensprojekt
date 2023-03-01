@@ -21,6 +21,7 @@
     "p5": "^1.4.2"
   },
   "devDependencies": {
+    "@parcel/css": "^1.14.0",
     "@typescript-eslint/eslint-plugin": "^5.38.1",
     "@typescript-eslint/parser": "^5.38.1",
     "eslint": "^8.24.0",
